@@ -1,0 +1,154 @@
+html{
+margin: 0;
+padding: 0;
+}
+
+body{
+margin: 0;
+padding: 0;
+font-family: 'Squada One', Impact, sans-serif;
+}
+
+h1{
+color: white;
+font-size: 100px;
+}
+
+h2{
+font-size: 50px;
+color: #303030;
+}
+
+h3{
+font-size: 50px;
+color: white;
+}
+
+h4{
+font-size: 28px;
+text-transform: uppercase;
+font-family: 'Squada One', sans-serif;
+}
+
+p{
+color: white;
+font-size: 18px;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: italic;
+font-weight: 400;
+}
+
+.container{
+max-width: 940px;
+margin: 0 auto 0 auto;
+text-align: center;
+padding: 100px 0px 100px 0px;
+}
+
+section{
+text-align: right;
+padding: 5px;
+float: left;
+vertical-align: top;
+}
+
+.sectiontwo{
+text-align: left;
+padding: 5px;
+max-width: 600px;
+float: right;
+vertical-align: top;
+}
+
+#intro{
+height: 600px;
+background-image: url(images/jump.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+
+.text-section p{
+color: #303030;
+}
+
+.image{
+height: 500px;
+background-image: url(images/football.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+
+.imagetwo{
+color: white;
+height: 500px;
+background-image: url(images/skate.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+
+.btn {
+color: white;
+background-color: #ffb447;
+padding: 20px; 
+text-decoration: none;
+}
+
+.btn:hover {
+background-color: #fe9a08;  
+}
+
+#footer{
+background-color: #303030;
+padding: 30px 0 30px 0;
+}
+
+#footer p{
+text-align: center;
+color: white;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 11px;
+}
+
+li{
+display: inline-block;
+text-align: center;
+width: 20%;
+height: 250px;
+vertical-align: top;
+padding: 20px;
+margin: 10px;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul{
+background-image: url(images/surfer.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+color: white;
+margin: 50px 0 0 0;
+text-align: center;
+}
+
+.icon{
+height: 60px;
+margin: 0;
+}
+
+.surfer{
+height: 170px;
+padding: 40px 20px 100px 20px;
+}
+
+.runner{
+height: 170px;
+padding: 40px 20px 200px 20px;
+vertical-align: top;
+}
+
+.clear{
+clear: both;
+}

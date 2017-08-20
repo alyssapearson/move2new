@@ -1,0 +1,22 @@
+Design a one-page website for a new fitness app called "MOVE/SYNC". Use the images provided in the folder (can appear in any order). Please include the following text on your webpage (can appear in any order):
+
+---
+
+MOVE/SYNC
+Healthy habits and challenging exercises to take your fitness to the next level.
+
+Stop Scrolling. Start Moving.
+Track your runs, rides and walks and compete with your friends.
+
+Automatically Sync Your Data.
+Access your activity on your phone, tablet, or computer.
+
+Move. Rest. Recover. Sync.
+Receive recommendations based on your activity to level up.
+
+Use call-to-action buttons such as "Learn More", "Start Now", "Sign Up" anywhere on the page.
+
+---
+
+Place all your files (html, css, images) in a folder called "move" and place it in your folder on the class drive.
+

@@ -1,0 +1,30 @@
+MOVE/SYNC PART 2
+
+---
+
+The company would like to incorporate more photos of women onto their one-page website (use at least 2 new images in the folder). In addition, they would like to add the following text (can appear in any order):
+
+Progress
+Stay on track with online and mobile tools that show your progress as charts and graphs on the MOVE/SYNC dashboard.
+
+Achieve
+Reach your goals by seeing progress notifications and celebrate milestones with achievement badges.
+
+Inspire
+Encourage friends and family to join your path to fitness with the leaderboard, group challenges, and cheers or taunts.
+
+Freedom
+Everyone's approach to fitness is different and so is ours. "One size fits all" doesn't always fit you.
+
+MOVE/SYNC is accessible on 120+ phones, including Android, iOS and Windows - more than any other tracker.
+
+Your fitness journey is your own. You should be able to share what you want, when you want. That's why we don't sell your private data - and why we never budge on privacy.
+
+move
+---
+
+Additional instructions:
+- You may incorporate more images as you see fit, such as icons. 
+- Use the new css properties 'float' and/or 'display'.
+- Use this opportunity to improve your design: Do your font choices and color scheme fit the product and the intended audience? Are your messages and call-to-action clear? Is your website easy to use and engaging?
+- Place all your files (html, css, images) in a folder called "move2” and place it in your folder on the class drive.
