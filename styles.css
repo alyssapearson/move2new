@@ -116,7 +116,7 @@ font-family: 'Exo 2', sans-serif;
 font-size: 11px;
 }
 
-li{
+.feat{
 display: inline-block;
 text-align: center;
 width: 20%;
@@ -128,7 +128,7 @@ font-family: 'Exo 2', sans-serif;
 font-weight: 300;
 }
 
-ul{
+.features{
 background-image: url(images/surfer.jpg);
 background-repeat: no-repeat;
 background-position: center center;
@@ -136,6 +136,33 @@ background-size: cover;
 color: white;
 margin: 50px 0 0 0;
 text-align: center;
+}
+
+.mainnav{
+  margin: 0;
+  padding: 0;
+}
+
+.menuItem{
+ display: inline-block;
+ padding: 0 40px 0 40px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+a:hover{
+  color: orange;
+}
+
+
+hr{
+  color: white;
+  border: 2px solid;
 }
 
 .icon{
